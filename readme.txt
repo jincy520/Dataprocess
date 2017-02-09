@@ -12,7 +12,7 @@ This command has three inputs: gold file, output tag path and dictionary path.
 
 Third, prepare test data file as:
 java uploadProcessingTestData msr_test_gold.utf8 testData.txt word.txt
-This command has three inputs: gold result file, output data path and dictionary path. This command first deletes all white spaces. That is to say, it changes a gold segmentated sentence to a raw sentence. Next, according to the raw sentence, it will produce the test data.
+This command has three inputs: gold result file, output data path and dictionary path. 
 
 
 Question&Answering
